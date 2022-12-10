@@ -17,4 +17,4 @@
 <img id="imagers" align="center" src="https://github-readme-stats.vercel.app/api?username=1Ronkkeli&show_icons=true&line_height=27&count_private=true&title_color=FE4EDA&text_color=8F00FF&icon_color=FF00FF&bg_color=000000" />
  </a>
 <br> </br>
-<iframe src="https://discord.com/widget?id=1000045399035355136&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<img src="https://discord.com/widget?id=1000045399035355136&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></img>
