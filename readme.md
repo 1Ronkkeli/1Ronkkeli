@@ -1,8 +1,3 @@
-# WELCOME
-# Linux & Server Admin
-# CyberSecurity
-# Game-server Hosting & Other Hosting, https://ronkkeli.com/
-
 
 ### STATS
 ![](https://komarev.com/ghpvc/?username=1Ronkkeli) 
